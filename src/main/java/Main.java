@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Boolean operators");
         }
     //Overflows in calculations of the Byte type
-        int result_3 = c * 5;
+        byte result_3 = c * 5;
         System.out.println("Overflows in calculations of the Byte type: " + result_3);
     //Combinations of data types (int and double)
       double result_5 = a + d + (b / 2);
